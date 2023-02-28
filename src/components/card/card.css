@@ -1,0 +1,41 @@
+.book-card{
+    /* border: 3px solid; */
+    margin: 50px;
+    width: 350px;
+    height: 450px;
+}
+
+.details{
+    background-color: whitesmoke;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.book-card-img-div {
+    max-width: 100%;
+    max-height: 50%;
+    display: flex;
+}
+
+
+.book-name{
+    color: orange;
+    font-size: 30;
+}
+
+.book-card-engagement{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.book-card-img{
+    width: 100%;
+}
+
+.heart-icon{
+    height: 30px;
+    cursor: pointer;
+}
