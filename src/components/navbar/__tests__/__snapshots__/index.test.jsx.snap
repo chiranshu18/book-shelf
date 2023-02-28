@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`navbar Should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="nav"
+  >
+    <div>
+       
+      <hr />
+       
+    </div>
+    <div
+      class="heading"
+    >
+      <div
+        class="title"
+      >
+        <h3>
+          BS
+        </h3>
+      </div>
+      <div
+        class="sub-title"
+      >
+        <h4>
+          The Book Shelf
+        </h4>
+      </div>
+    </div>
+    <div>
+       
+      <hr />
+       
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`navbar Should render correctly 2`] = `
+<DocumentFragment>
+  <div
+    class="nav"
+  >
+    <div>
+       
+      <hr />
+       
+    </div>
+    <div
+      class="heading"
+    >
+      <div
+        class="title"
+      >
+        <h3>
+          BS
+        </h3>
+      </div>
+      <div
+        class="sub-title"
+      >
+        <h4>
+          The Book Shelf
+        </h4>
+      </div>
+    </div>
+    <div>
+       
+      <hr />
+       
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`navbar should display 1`] = `
+<DocumentFragment>
+  <div
+    class="nav"
+  >
+    <div>
+       
+      <hr />
+       
+    </div>
+    <div
+      class="heading"
+    >
+      <div
+        class="title"
+      >
+        <h3>
+          BS
+        </h3>
+      </div>
+      <div
+        class="sub-title"
+      >
+        <h4>
+          The Book Shelf
+        </h4>
+      </div>
+    </div>
+    <div>
+       
+      <hr />
+       
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`navbar should display heading when rendered 1`] = `
+<DocumentFragment>
+  <div
+    class="nav"
+  >
+    <div>
+       
+      <hr />
+       
+    </div>
+    <div
+      class="heading"
+    >
+      <div
+        class="title"
+      >
+        <h3>
+          BS
+        </h3>
+      </div>
+      <div
+        class="sub-title"
+      >
+        <h4>
+          The Book Shelf
+        </h4>
+      </div>
+    </div>
+    <div>
+       
+      <hr />
+       
+    </div>
+  </div>
+</DocumentFragment>
+`;
