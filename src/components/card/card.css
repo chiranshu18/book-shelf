@@ -39,3 +39,27 @@
     height: 30px;
     cursor: pointer;
 }
+
+
+
+@media only screen and (max-width: 450px) {
+
+    .book-card{
+        margin: 50px;
+        width: 250px;
+        height: 450px;
+    }
+
+}
+
+@media only screen and (max-width: 330px) {
+
+    .book-card{
+        margin: 50px;
+        width: 150px;
+        height: 450px;
+    }
+
+}
+
+

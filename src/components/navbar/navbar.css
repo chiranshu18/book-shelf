@@ -39,3 +39,11 @@ hr{
     padding: 5px;
     color: white;
 }
+
+@media only screen and (max-width: 500px) {
+    
+    hr{
+        flex-basis: 0;
+    }
+
+}
